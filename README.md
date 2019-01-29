@@ -1,0 +1,2 @@
+# terms
+GitHub Pages
